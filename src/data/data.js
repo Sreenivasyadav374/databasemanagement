@@ -1,6 +1,6 @@
-[
+const datab=[
   {
-    "id": 1001,
+    "id": 1,
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/93.png",
     "firstName": "Thomas",
     "lastName": "Leannon",
@@ -12,7 +12,7 @@
     "address": "Address1"
   },
   {
-    "id": 1002,
+    "id": 2,
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/93.png",
     "firstName": "Faye",
     "lastName": "Sauer",
@@ -24,7 +24,7 @@
     "address": "Address2"
   },
   {
-    "id": 1003,
+    "id": 3,
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/93.png",
     "firstName": "Deven",
     "lastName": "Halvorson",
@@ -36,7 +36,7 @@
     "address": "Address3"
   },
   {
-    "id": 1004,
+    "id": 4,
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/93.png",
     "firstName": "Melisa",
     "lastName": "Schuppe",
@@ -48,7 +48,7 @@
     "address": "Address4"
   },
   {
-    "id": 1005,
+    "id": 5,
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/93.png",
     "firstName": "Dell",
     "lastName": "Kris",
@@ -60,7 +60,7 @@
     "address": "Address5"
   },
   {
-    "id": 1006,
+    "id": 6,
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/93.png",
     "firstName": "Marcia",
     "lastName": "Gutmann",
@@ -72,7 +72,7 @@
     "address": "Address6"
   },
   {
-    "id": 1007,
+    "id": 7,
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/93.png",
     "firstName": "Jarrod",
     "lastName": "Ortiz",
@@ -84,7 +84,7 @@
     "address": "Address7"
   },
   {
-    "id": 1008,
+    "id": 8,
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/93.png",
     "firstName": "Gabriella",
     "lastName": "Wilkinson",
@@ -96,7 +96,7 @@
     "address": "Address8"
   },
   {
-    "id": 1009,
+    "id": 9,
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/93.png",
     "firstName": "Elisabeth",
     "lastName": "Hayes",
@@ -108,7 +108,7 @@
     "address": "Address9"
   },
   {
-    "id": 1010,
+    "id": 10,
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/93.png",
     "firstName": "Jaime",
     "lastName": "Reichel",
@@ -119,4 +119,5 @@
     "salary": 10,
     "address": "Address10"
   }
-]
+];
+export default datab;
